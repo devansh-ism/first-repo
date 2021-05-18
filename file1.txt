@@ -1,1 +1,6 @@
 cse from iit ism dhanbad
+This is really fun
+
+vim shortcuts
+'o' - create a new line below the cursor and in insert mode
+
