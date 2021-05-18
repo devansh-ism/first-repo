@@ -1,0 +1,13 @@
+78e6387 new File Added
+6b51d6b added man man output
+198e1cd Merge branch 'master' of github.com:devansh-ism/first-repo new commit here
+47ca63f commit for file2
+a105ab8 Merge pull request #2 from devansh-ism/new
+5dd2633 new commit in abc branch
+91c4e5b phirse commit
+363380d new file upload
+a300e0a Changed the readme
+e5916e9 Update README.md
+119c293 Merge pull request #1 from devansh-ism/readme-edits
+77afee2 upadting my branch from master branch
+bff5be6 Initial commit
